@@ -2,6 +2,7 @@
 In Python, we are building a game called “Snake game” where the player handles a snake. The snake walks around the screen and eats food to grow. It tries to avoid hitting the edges or itself.
 
 Abstract:
+
 This project involves the development of a 2D Snake game using pyGame in
 Python. The primary objective is to reimagine the classic Snake game in a 2D
 environment, enhancing player experience with modern graphics. The
